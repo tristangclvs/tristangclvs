@@ -2,10 +2,10 @@
 <div align="center">
   <h1> Hello there, I'm Tristan !</h1>
 <div id="badges">
-  <a href="www.linkedin.com/in/tristan-gclvs">
+  <a href="https://www.linkedin.com/in/tristan-gclvs">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.instagram.com/titous.igela/">
+  <a href="https://www.tristangclvs.fr">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge" />
   </a>
   <a href="https://www.instagram.com/titous.igela/">
