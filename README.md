@@ -13,14 +13,15 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </div>
-  <!-- <img src="https://komarev.com/ghpvc/?username=tristangclvs&style=flat-square&color=blue" alt=""/> -->
+   <img src="https://github.com/tristangclvs/tristangclvs/blob/main/Portrait-N%26B.jpg" alt=""/> 
 
 </div>
 
 # About me :upside_down_face:
 Currently engineering student at the *École Nationale Supérieure de cognitique*, I love to code and improve myself by training. 
 I also am looking for an end-of-year internship, beginning on **22nd May 2023 for 12 to 16 weeks**.
----
+
+
 # Works
 
 
