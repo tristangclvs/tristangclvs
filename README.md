@@ -1,8 +1,28 @@
 
 <div align="center">
-  <h1> Hello There ! </h1>
-  <h2> I am Tristan Gonçalves, engineering student at the École Nationale Supérieure de Cognitique </h2>
+  <h1> Hello there, I'm Tristan !</h1>
+<div id="badges">
+  <a href="www.linkedin.com/in/tristan-gclvs">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/titous.igela/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/titous.igela/">
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
 </div>
+</div>
+
+
+
+
+
+
+
+
+
+
 <!--
 **tristangclvs/tristangclvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
