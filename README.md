@@ -14,7 +14,7 @@
   </a>
 </div>
   <br>
-   <img src="https://github.com/tristangclvs/tristangclvs/blob/main/Portrait-N%26B-cercle.png" alt="My photo" height="30%" width="30%"/> 
+   <img src="https://github.com/tristangclvs/tristangclvs/blob/main/Portrait-N%26B-cercle.png" alt="My photo" height="25%" width="25%"/> 
 
 </div>
 
