@@ -1,6 +1,7 @@
 
 <div align="center">
   <h1> Hello There ! </h1>
+  <h2> I am Tristan Gonçalves, engineering student at the École Nationale Supérieure de Cognitique </h2>
 </div>
 <!--
 **tristangclvs/tristangclvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
