@@ -6,11 +6,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/titous.igela/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.instagram.com/titous.igela/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
+  <a href="https://www.instagram.com/titous.igela/">
+    <img src="[https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white)" alt="Twitter Badge"/>
+    
+  </a>
+
 </div>
 </div>
 
