@@ -45,7 +45,7 @@ I also am looking for an end-of-year internship, beginning on **22nd May 2023 fo
   <a href="https://github.com/tristangclvs/ComboColor">
     -->
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/tristangclvs/blob/main/colony.png">
-    <img width="400" height="400" src="https://github.com/tristangclvs/tristangclvs/blob/main/colony.png" style="max-width: 100%;">
+    <img width="400" height="400" src="https://github.com/tristangclvs/tristangclvs/blob/main/Colony.jpg" style="max-width: 100%;">
   </a>
   <a href="https://github.com/tristangclvs/Colony">
   
