@@ -1,6 +1,7 @@
 
 <div align="center">
-  <h1> Hello there, I'm Tristan !</h1>
+  <h1> Hello there, I'm Tristan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/tristan-gclvs">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
