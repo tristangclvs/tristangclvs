@@ -10,16 +10,13 @@
   </a>
   <a href="https://www.instagram.com/titous.igela/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
-    
   </a>
-
 </div>
 </div>
 
-
-
-
-
+# About me
+Currently engineering student at the *École Nationale Supérieure de cognitique*, I love to code and improve myself by training. 
+I also am looking for an end-of-year internship, beginning on **22nd May 2023 for 12 to 16 weeks**.
 
 
 
