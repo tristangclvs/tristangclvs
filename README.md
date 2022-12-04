@@ -47,11 +47,8 @@ I also am looking for an end-of-year internship, beginning on **22nd May 2023 fo
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/tristangclvs/blob/main/colony.png">
     <img width="400"  src="https://github.com/tristangclvs/tristangclvs/blob/main/Colony.jpg" style="max-width: 100%;">
   </a>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=colony)](https://github.com/tristangclvs/Colony)
   <a href="https://github.com/tristangclvs/Colony">
-  
-
-  <img align="" src="https://camo.githubusercontent.com/235758a7a0428f1b9fc96927b1f8d088bd32ecdea56f4131922b6fba5f0a2faa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d597572694465764154267265706f3d74636c2d31392d736d6172742d73686f7070696e672d6c697374267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs;repo=Colony;theme=tokyonight" style="max-width: 100%;">
+  <img align="" src="https://camo.githubusercontent.com/235758a7a0428f1b9fc96927b1f8d088bd32ecdea56f4131922b6fba5f0a2faa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d597572694465764154267265706f3d74636c2d31392d736d6172742d73686f7070696e672d6c697374267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs;repo=colony&amp;theme=tokyonight" style="max-width: 100%;">
 </a> 
 </p>
 
