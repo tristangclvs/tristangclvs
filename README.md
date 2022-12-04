@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </div>
-   <img src="https://github.com/tristangclvs/tristangclvs/blob/main/Portrait-N%26B.jpg" alt="My photo" shape="circle" height="30%" width="30%"/> 
+   <img src="https://github.com/tristangclvs/tristangclvs/blob/main/Portrait-N%26B-cercle.png" alt="My photo" height="30%" width="30%"/> 
 
 </div>
 
