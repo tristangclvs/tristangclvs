@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=tristangclvs&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 # About me
