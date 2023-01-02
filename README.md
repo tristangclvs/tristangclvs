@@ -28,13 +28,13 @@ I also am looking for an end-of-year internship, beginning on **22nd May 2023 fo
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/tristangclvs/blob/main/Colony.jpg">
     <img width="400"  src="https://github.com/tristangclvs/tristangclvs/blob/main/Colony.jpg" style="max-width: 100%;">
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/tristangclvs/blob/main/Site i2c.jpg">
+  <!-- <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/tristangclvs/blob/main/Site i2c.jpg">
     <img width="400"  src="https://github.com/tristangclvs/tristangclvs/blob/main/Site i2c.jpg" style="max-width: 100%;">
-  </a> 
+  </a> -->
   
   <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Colony&theme=synthwave" />
   
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&theme=synthwave" />  <!--&repo=SiteWebi2c-->
+ <!-- <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=SiteWebi2c&theme=synthwave" />   -->
 
   
   <br>
