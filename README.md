@@ -34,7 +34,7 @@ I also am looking for an end-of-year internship, beginning on **22nd May 2023 fo
   
   <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Colony&theme=synthwave" />
   
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=SiteWeb_i2c&theme=synthwave" />
+  <!--<img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=SiteWeb_i2c&theme=synthwave" />-->
 
   
   <br>
