@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://www.tristangclvs.fr">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logoColor=303030" alt="Portfolio Badge" />
   </a>
-  <a href="https://www.instagram.com/titous.igela/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+  <a href="https://github.com/tristangclvs/tristangclvs/blob/main/Tristan_GONCALVES___Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-303030?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume Badge" />
   </a>
 </div>
   <br>
