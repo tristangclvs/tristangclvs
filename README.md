@@ -32,14 +32,17 @@ I also am looking for an end-of-year internship, beginning on **22nd May 2023 fo
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/tristangclvs/blob/main/Site i2c.jpg">
     <img width="400"  src="https://github.com/tristangclvs/tristangclvs/blob/main/Site i2c.jpg" style="max-width: 100%;">
   </a> -->
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/Colony">
-    <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Colony&theme=synthwave" />
+  <a target="_blank" rel="noopener noreferrer" href="[https://github.com/tristangclvs/Colony](https://github.com/tristangclvs/Project_A-Star)">
+    <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Project_A-Star&theme=synthwave" />
   </a>
   <a target="_blank" rel="noopener noreferrer" href="[https://github.com/tristangclvs/Colony](https://github.com/tristangclvs/Project_R_BodyFat)">
     <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Project_R_BodyFat&theme=synthwave" />
   </a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/Colony">
     <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Colony&theme=synthwave" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="[https://github.com/tristangclvs/Colony](https://github.com/tristangclvs/Web.Projet-HistoireInteractive)">
+    <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Web.Projet-HistoireInteractive&theme=synthwave" />
   </a>
  <!-- <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=SiteWebi2c&theme=synthwave" />   -->
 
