@@ -36,8 +36,8 @@ I also am looking for an end-of-year internship, beginning on **22nd May 2023 fo
     <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Project_A-Star&theme=dark" />
   </a>
   <!-- <p></p> --> &nbsp;&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/Project_R_BodyFat">
-    <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Project_R_BodyFat&theme=dark" />
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/MusiClassify">
+    <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=MusiClassify&theme=dark" />
   </a>
   
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/Colony">
