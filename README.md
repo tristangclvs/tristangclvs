@@ -54,6 +54,9 @@ Currently final year engineering student at the *École Nationale Supérieure de
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tristan-gclvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristan-gclvs" height="30" width="40" /></a>
+<a href="https://bento.me/tristangclvs" target="blank"><img align="center" src="https://github.com/tristangclvs/tristangclvs/blob/main/images/bento.me.png" alt="tristan-gclvs" height="30" width="40" /></a>
+
+
 </p>
 
 
