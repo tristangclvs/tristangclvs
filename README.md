@@ -26,12 +26,13 @@
 
 # About me :upside_down_face:
 <p align="left">
-Currently final year engineering student at the *École Nationale Supérieure de cognitique*, I love to code and improve myself by training. 
 </p>
 
-<p align="right">
-  <img src="https://github.com/tristangclvs/tristangclvs/blob/main/images/rocket_moon.png">
-</p>
+<img align="left" height="94px" width="94px" alt="rocket" src="https://github.com/tristangclvs/tristangclvs/blob/main/images/rocket_moon.png"/>
+
+**Security Specialist** \
+Currently final year engineering student at the *École Nationale Supérieure de cognitique*, I love to code and improve myself by training. 
+<br/>
 
 # Works
 <p align="center" dir="auto">
