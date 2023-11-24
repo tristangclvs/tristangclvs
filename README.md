@@ -2,30 +2,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:670615&height=300&section=header&text=Hello%20there&fontSize=90&fontColor=F5F5F5&fontAlign=70&animation=fadeIn) 
 
 
-<div style="width:80%; margin:0 auto">
-      <h3>Let's get to know each other !</h3>
+<div style="width:80%; margin:0 auto;">
+      <h1>𝙇𝙚𝙩'𝙨 𝙜𝙚𝙩 𝙩𝙤 𝙠𝙣𝙤𝙬 𝙚𝙖𝙘𝙝 𝙤𝙩𝙝𝙚𝙧 !</h1>
       <a href="https://www.linkedin.com/in/tristan-gclvs">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       <a href="https://read.cv/tristangclvs">
         <img src="https://img.shields.io/badge/Resume (ENG)-303030?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume (English)" />
       </a>
-      <img src="https://github.com/tristangclvs/tristangclvs/blob/main/images/Portrait-N%26B-cercle.png" alt="My photo" height="25%" width="25%" align="right"/>  
+      <img src="./images/Portrait-N%26B-cercle.png" alt="My photo" height="25%" width="25%" align="right"/>  
   </div>
 </div>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristangclvs" alt="tristangclvs" /></a> </p> -->
 
 
-# About me :upside_down_face:
-<div style="width:85%; margin: 0 auto;" > 
-  <img align="left" height="94px" width="94px" alt="rocket" src="https://github.com/tristangclvs/tristangclvs/blob/main/images/rocket_moon.png"/>
+## About me :upside_down_face:
+<div style="width:75%; margin: 0 auto;" > 
+  <img align="left" height="94px" width="94px" alt="rocket" src="./images/rocket_moon.png"/>
 
   Currently final year engineering student at the *École Nationale Supérieure de cognitique*, I love to code and improve myself by training. 
 </div>
 <br/><br/><br/>
 
-# Works
+## Works
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/tristangclvs/Project_A-Star">
     <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=tristangclvs&repo=Project_A-Star&theme=dark" />
@@ -62,3 +62,4 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tristangclvs&theme=github-compact&custom_title=Tristan's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:670615&height=100&section=footer) 
