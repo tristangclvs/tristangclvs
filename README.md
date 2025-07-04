@@ -4,12 +4,6 @@
 
 <div style="width:80%; margin:0 auto;">
       <h1>𝙇𝙚𝙩'𝙨 𝙜𝙚𝙩 𝙩𝙤 𝙠𝙣𝙤𝙬 𝙚𝙖𝙘𝙝 𝙤𝙩𝙝𝙚𝙧 !</h1>
-      <a href="https://www.linkedin.com/in/tristan-gclvs">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="https://read.cv/tristangclvs">
-        <img src="https://img.shields.io/badge/Resume (ENG)-303030?style=for-the-badge&logo=ReadMe&logoColor=white" alt="Resume (English)" />
-      </a>
       <img src="./images/Portrait-N%26B-cercle.png" alt="My photo" height="25%" width="25%" align="right"/>  
   </div>
 </div>
@@ -21,7 +15,7 @@
 <div style="width:75%; margin: 0 auto;" > 
   <img align="left" height="94px" width="94px" alt="rocket" src="./images/rocket_moon.png"/>
 
-  Currently final year engineering student at the *École Nationale Supérieure de cognitique*, I love to code and improve myself by training. 
+  Engineer **@ArianeGroup**, I love to code and improve myself by training. 
 </div>
 <br/><br/><br/>
 
